@@ -1,0 +1,6 @@
+pyramid
+sqlalchemy
+mako
+
+[testing]
+pytest
